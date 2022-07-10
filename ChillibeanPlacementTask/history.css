@@ -1,0 +1,99 @@
+body{
+    font-family: "Montserrat";
+}
+
+p{
+    text-align: left;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: "Montserrat";
+    font-weight: bold;
+}
+
+/* navbar */
+.nav-section{
+    background-color: #008E97;
+    color: #fff;
+    text-align: center;
+    padding: 1em 15% 1em;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+/* hero header */
+.hero-section{
+    background: linear-gradient(rgba(0, 0, 0, 0.445), rgba(0, 0, 0, 0.411)), url('images/history-header.webp') no-repeat center / cover;
+    width: 100%;
+    height: 370px;
+    color: white;
+}
+
+.hero-container{
+    padding: 5% 15% 5%;
+}
+
+
+/* history information */
+.info-container{
+    padding: 7% 7% 7%;
+    text-align: center;
+}
+
+.first-section-img{
+    width: 100%;
+    height: 100%;
+    text-align: center;   
+}
+
+
+.first-col{
+    padding-top: 9%;
+}
+
+.first-col h2{
+    padding-bottom: 0.5%;
+}
+
+/* car history section */
+#car-years{
+    color: white;
+    text-align: center;
+}
+
+.car-years-text{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.car-years-image {
+    width: 35%;
+    height: 35%;
+}
+.car-years-heading{
+    padding-top: 1em;
+}
+.carousel-item{
+    padding: 4% 15%;
+}
+/* 
+colours of sections */
+.blue-section{
+    background-color: #008E97;
+}
+
+.white-section{
+    background-color: white;
+}
+
+.grey-section{
+    background-color: #f6f0f0;
+}
+
+
+/* footer */
+#footer{
+    padding: 7% 15%;
+}

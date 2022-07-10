@@ -1,0 +1,126 @@
+body{
+    font-family: "Montserrat";
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: "Montserrat";
+    font-weight: bold;
+}
+
+/* colour of sections */
+.white-section{
+    background-color: #fff;
+}
+
+
+.grey-section{
+    background-color: #f6f0f0;
+}
+
+.blue-section{
+    background-color: #008E97;
+}
+
+
+
+/* hero header */
+.hero-container{
+    padding: 8% 15% 17%;
+}
+.hero-section{
+    background: linear-gradient(rgba(0, 0, 0, 0.445), rgba(0, 0, 0, 0.411)), url('images/hero-header.jpg') no-repeat center / cover;
+    width: 100%;
+    height: 600px;
+    color: white;
+}
+
+/* navbar */
+.nav-section{
+    background-color: #008E97;
+    color: #fff;
+    text-align: center;
+    padding: 1em 15% 1em;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+/* f1 introduction */
+#f1-intro{
+    padding: 10% 10% 10%;
+    text-align: center;
+}
+
+#f1-intro p{
+    text-align: left;   
+}
+
+/* why I love f1 section */
+.passion-container{
+    padding: 7% 7% 7%;
+    text-align: center;
+}
+
+.passion-image{
+    width:80%;
+    height: 100%;
+    text-align: center;
+}
+
+.col h2{
+    text-align: center;
+}
+.col{
+    padding: 6%;
+    text-align: left;
+}
+
+
+
+/* paassionate-celebrities */
+
+#testimonials{
+    color: white;
+    text-align: center;
+}
+
+#testimonials{
+    background-color: #008E97;
+}
+
+.testimonial-text{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.testimonial-image {
+    width: 35%;
+    height: 35%;
+}
+.testimonial-heading{
+    padding-top: 5%;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+
+/* f1 driver cards */
+#driver{
+    padding: 100px;
+    text-align: center;
+}
+
+.driver-column{
+    padding: 3% 2%;
+}
+
+.card-title{
+    font-weight: bold;
+}
+
+
+/* footer */
+#footer{
+    padding: 7% 15%;
+}
